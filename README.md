@@ -2,7 +2,7 @@
 
 A well-organized repository for LeetCode problem solutions with systematic categorization.
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 LeetCode-problem/
@@ -44,7 +44,7 @@ LeetCode-problem/
     └── solutions/              # Detailed solution explanations
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Choose a problem from LeetCode
 2. Identify its difficulty (easy/medium/hard)
@@ -52,7 +52,7 @@ LeetCode-problem/
 4. Create a folder for the problem using the naming convention: `[Problem_Number]_[Problem_Name]`
 5. Add your solution files inside the problem folder
 
-## 📝 Problem Folder Structure
+## Problem Folder Structure
 
 Each problem should follow this structure:
 ```
@@ -64,7 +64,7 @@ Each problem should follow this structure:
 └── notes.md                  # Personal notes and learnings
 ```
 
-## 🏷️ Naming Convention
+## Naming Convention
 
 - **Problem Folders**: `[Number]_[Snake_Case_Name]`
   - Example: `1_two_sum`, `53_maximum_subarray`
@@ -78,7 +78,7 @@ Each problem should follow this structure:
 - `scripts/generate/` - Problem template generators
 - `scripts/check/` - Solution validation tools
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Arrays & Hashing
 - Two Pointers
@@ -93,7 +93,7 @@ Each problem should follow this structure:
 - Bit Manipulation
 - Math & Geometry
 
-## 🎯 Goals
+## Goals
 
 - Systematic organization of solutions
 - Easy retrieval by topic/company/difficulty
