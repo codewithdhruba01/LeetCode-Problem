@@ -78,20 +78,22 @@ Each problem should follow this structure:
 - `scripts/generate/` - Problem template generators
 - `scripts/check/` - Solution validation tools
 
-## Topics Covered
+## 📚 Study Notes
 
-- Arrays & Hashing
-- Two Pointers
-- Sliding Window
-- Stack
-- Binary Search
-- Linked List
-- Trees & Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
-- Bit Manipulation
-- Math & Geometry
+Access these notes to refresh your knowledge on common LeetCode patterns and data structures:
+
+### Concepts
+- [Arrays & Hashing](file:///home/dhrubaraj-pati/Desktop/LeetCode-problem/notes/concepts/arrays_hashing.md)
+- [Linked Lists](file:///home/dhrubaraj-pati/Desktop/LeetCode-problem/notes/concepts/linked_lists.md)
+- [Math Basics](file:///home/dhrubaraj-pati/Desktop/LeetCode-problem/notes/concepts/math_basics.md)
+
+### Patterns
+- [Two Pointers](file:///home/dhrubaraj-pati/Desktop/LeetCode-problem/notes/patterns/two_pointers.md)
+
+### Solutions
+- [Problem Solving Steps](file:///home/dhrubaraj-pati/Desktop/LeetCode-problem/notes/solutions/problem_solving_steps.md)
+
+## Topics Covered
 
 ## Goals
 
