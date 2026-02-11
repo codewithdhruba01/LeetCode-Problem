@@ -1,26 +1,57 @@
-# Revision Notes: Maximum Subarray
+## Problem Summary
 
-## Core Concept
--   **Kadane's Algorithm** is the optimal approach for this problem.
--   **Key Logic**: If the sum of a subarray becomes negative, it's detrimental to continue adding to it. Start fresh from the current element.
-    -   `currentSum = Math.max(nums[i], currentSum + nums[i])`
-    -   `maxSum = Math.max(maxSum, currentSum)`
+You are given an integer array.
+You need to find the **continuous subarray** that has the maximum sum and return that sum.
 
-## Common Pitfalls
--   Initializing `maxSum` to 0 instead of `Integer.MIN_VALUE` or `nums[0]`. This fails if the array contains only negative numbers (e.g., `[-1]`).
--   Forgetting to update `maxSum` *after* updating `currentSum`.
 
-## Complexity
--   **Time**: `O(n)` - Single pass.
--   **Space**: `O(1)` - Only two variables needed.
+## Approach Used: Kadane’s Algorithm
 
-## Alternative Approaches
--   **Brute Force**: Check all subarrays. `O(n^2)` or `O(n^3)`. Too slow for large inputs.
--   **Divide and Conquer**: Recursive approach. `O(n log n)`.
-    -   Split array into two halves.
-    -   Max subarray is either in the left half, right half, or crossing the midpoint.
-    -   More complex to implement than Kadane's, but good for understanding D&C.
+### Idea
 
-## Related Problems
--   Maximum Product Subarray
--   Best Time to Buy and Sell Stock
+At every index, we have two choices:
+
+1. Continue the previous subarray
+2. Start a new subarray from the current element
+
+> We choose whichever gives the larger sum.
+
+
+## Algorithm Logic
+
+Initialize:
+
+```
+currentSum = nums[0]
+maxSum = nums[0]
+```
+
+Then iterate through the array:
+
+```
+currentSum = max(nums[i], currentSum + nums[i])
+maxSum = max(maxSum, currentSum)
+```
+
+## Intuition
+
+If the running sum becomes negative,
+it is useless to carry it forward.
+
+So we start a new subarray from that point.
+
+
+## Time & Space Complexity
+
+* Time Complexity  : O(n)
+* Space Complexity : O(1)
+
+* Only one traversal
+* No extra space used
+
+
+## Key Points
+
+* This is a mix of Greedy and Dynamic Programming concepts
+* We maintain a local maximum at each step
+* The final answer is the global maximum
+* This is the most optimal solution for this problem

@@ -1,34 +1,15 @@
-
-/**
- * LeetCode Problem Template
- *
- * Problem Number:
- * Problem Name:
- * Difficulty:
- * Topics:
- *
- * Time Complexity:
- * Space Complexity:
- *
- * Approach:
- **/
-
-import java.util.*;
-
-public class SolutionTemplate {
-
+class Solution {
     public void solve() {
         // Implementation here
     }
 
-    // Test cases
     public static void main(String[] args) {
-        SolutionTemplate solution = new SolutionTemplate();
+        Solution solution = new Solution();
 
-        // Test case 1
-        // Object result = solution.solve();
-        // assert result.equals(expected);
-
-        System.out.println("All tests passed! ✅");
+        // Test Case 1
+        // Object input = ...;
+        // Object expected = ...;
+        // System.out.println("Test Case 1: " + (solution.solve(input).equals(expected)
+        // ? "Passed" : "Failed"));
     }
 }
