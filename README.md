@@ -41,6 +41,8 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Reverse Integer** | Medium | Math/Strings | [Java](problems/topics/strings/Reverse_Integer/Solution.java) | [Notes](problems/topics/strings/Reverse_Integer/notes.md) |
 | **Pow(x, n)** | Medium | Math | [Java](problems/medium/50_pow_x_n/Solution.java) | [Notes](problems/medium/50_pow_x_n/notes.md) |
 | **Rotate Array** | Medium | Arrays | [Java](problems/topics/arrays/Rotate_Array/Solution.java) | [Notes](problems/topics/arrays/Rotate_Array/notes.md) |
+| **Jump Game** | Medium | Arrays/Greedy | [Java](problems/topics/arrays/Jump_Game/Solution.java) | [Notes](problems/topics/arrays/Jump_Game/notes.md) |
+| **Integer to Roman** | Medium | Strings | [Java](problems/topics/strings/Integer_to_Roman/Solution.java) | [Notes](problems/topics/strings/Integer_to_Roman/notes.md) |
 
 ## 🚀 How to Run
 
