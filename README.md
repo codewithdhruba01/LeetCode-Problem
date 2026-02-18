@@ -43,6 +43,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Rotate Array** | Medium | Arrays | [Java](problems/topics/arrays/Rotate_Array/Solution.java) | [Notes](problems/topics/arrays/Rotate_Array/notes.md) |
 | **Jump Game** | Medium | Arrays/Greedy | [Java](problems/topics/arrays/Jump_Game/Solution.java) | [Notes](problems/topics/arrays/Jump_Game/notes.md) |
 | **Integer to Roman** | Medium | Strings | [Java](problems/topics/strings/Integer_to_Roman/Solution.java) | [Notes](problems/topics/strings/Integer_to_Roman/notes.md) |
+| **Valid Anagram** | Easy | Strings | [Java](problems/topics/strings/Valid_Anagram/Solution.java) | [Notes](problems/topics/strings/Valid_Anagram/notes.md) |
 
 ## 🚀 How to Run
 
