@@ -44,6 +44,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Jump Game** | Medium | Arrays/Greedy | [Java](problems/topics/arrays/Jump_Game/Solution.java) | [Notes](problems/topics/arrays/Jump_Game/notes.md) |
 | **Integer to Roman** | Medium | Strings | [Java](problems/topics/strings/Integer_to_Roman/Solution.java) | [Notes](problems/topics/strings/Integer_to_Roman/notes.md) |
 | **Valid Anagram** | Easy | Strings | [Java](problems/topics/strings/Valid_Anagram/Solution.java) | [Notes](problems/topics/strings/Valid_Anagram/notes.md) |
+| **Sqrt(x)** | Easy | Math/Binary Search | [Java](problems/easy/69_sqrt_x/Solution.java) | [Notes](problems/easy/69_sqrt_x/notes.md) |
 
 ## 🚀 How to Run
 
