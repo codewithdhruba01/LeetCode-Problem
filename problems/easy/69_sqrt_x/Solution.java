@@ -1,5 +1,3 @@
-package problems.easy._69_sqrt_x;
-
 class Solution {
     public int mySqrt(int x) {
         if (x < 2) {
