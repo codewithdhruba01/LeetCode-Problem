@@ -45,6 +45,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Integer to Roman** | Medium | Strings | [Java](problems/topics/strings/Integer_to_Roman/Solution.java) | [Notes](problems/topics/strings/Integer_to_Roman/notes.md) |
 | **Valid Anagram** | Easy | Strings | [Java](problems/topics/strings/Valid_Anagram/Solution.java) | [Notes](problems/topics/strings/Valid_Anagram/notes.md) |
 | **Sqrt(x)** | Easy | Math/Binary Search | [Java](problems/easy/69_sqrt_x/Solution.java) | [Notes](problems/easy/69_sqrt_x/notes.md) |
+| **Maximum Ascending Subarray Sum** | Easy | Arrays | [Java](problems/topics/arrays/Maximum_Ascending_Subarray_Sum/Solution.java) | [Notes](problems/topics/arrays/Maximum_Ascending_Subarray_Sum/notes.md) |
 
 ## 🚀 How to Run
 
