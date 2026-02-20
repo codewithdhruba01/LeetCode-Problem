@@ -46,6 +46,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Valid Anagram** | Easy | Strings | [Java](problems/topics/strings/Valid_Anagram/Solution.java) | [Notes](problems/topics/strings/Valid_Anagram/notes.md) |
 | **Sqrt(x)** | Easy | Math/Binary Search | [Java](problems/easy/69_sqrt_x/Solution.java) | [Notes](problems/easy/69_sqrt_x/notes.md) |
 | **Maximum Ascending Subarray Sum** | Easy | Arrays | [Java](problems/topics/arrays/Maximum_Ascending_Subarray_Sum/Solution.java) | [Notes](problems/topics/arrays/Maximum_Ascending_Subarray_Sum/notes.md) |
+| **Merge Sorted Array** | Easy | Arrays/Two Pointers | [Java](problems/topics/arrays/Merge_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Merge_Sorted_Array/notes.md) |
 
 ## 🚀 How to Run
 
