@@ -48,6 +48,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Maximum Ascending Subarray Sum** | Easy | Arrays | [Java](problems/topics/arrays/Maximum_Ascending_Subarray_Sum/Solution.java) | [Notes](problems/topics/arrays/Maximum_Ascending_Subarray_Sum/notes.md) |
 | **Merge Sorted Array** | Easy | Arrays/Two Pointers | [Java](problems/topics/arrays/Merge_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Merge_Sorted_Array/notes.md) |
 | **Longest Palindromic Substring** | Medium | Strings | [Java](problems/topics/strings/Longest_Palindromic_Substring/Solution.java) | [Notes](problems/topics/strings/Longest_Palindromic_Substring/notes.md) |
+| **Power of Two** | Easy | Math | [Java](problems/easy/231_power_of_two/Solution.java) | [Notes](problems/easy/231_power_of_two/notes.md) |
 
 ## 🚀 How to Run
 
