@@ -53,6 +53,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Remove Duplicates from Sorted Array** | Easy | Arrays | [Java](problems/topics/arrays/Remove_Duplicates_from_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Remove_Duplicates_from_Sorted_Array/notes.md) |
 | **Remove Duplicates from Sorted Array II** | Medium | Arrays | [Java](problems/topics/arrays/Remove_Duplicates_from_Sorted_Array_II/Solution.java) | [Notes](problems/topics/arrays/Remove_Duplicates_from_Sorted_Array_II/notes.md) |
 | **Rotate String** | Easy | Strings | [Java](problems/topics/strings/Rotate_String/Solution.java) | [Notes](problems/topics/strings/Rotate_String/notes.md) |
+| **Sort Colors** | Medium | Arrays | [Java](problems/topics/arrays/Sort_Colors/Solution.java) | [Notes](problems/topics/arrays/Sort_Colors/notes.md) |
 
 ## 🚀 How to Run
 
