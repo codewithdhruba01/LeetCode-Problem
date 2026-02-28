@@ -56,6 +56,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Sort Colors** | Medium | Arrays | [Java](problems/topics/arrays/Sort_Colors/Solution.java) | [Notes](problems/topics/arrays/Sort_Colors/notes.md) |
 | **Sliding Window Maximum** | Hard | Arrays | [Java](problems/topics/arrays/Sliding_Window_Maximum/Solution.java) | [Notes](problems/topics/arrays/Sliding_Window_Maximum/notes.md) |
 | **First Unique Character in a String** | Easy | Strings | [Java](problems/topics/strings/First_Unique_Character_in_a_String/Solution.java) | [Notes](problems/topics/strings/First_Unique_Character_in_a_String/notes.md) |
+| **Happy Number** | Easy | Math | [Java](problems/easy/202_happy_number/Solution.java) | [Notes](problems/easy/202_happy_number/notes.md) |
 
 ## 🚀 How to Run
 
