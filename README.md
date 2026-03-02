@@ -59,6 +59,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Happy Number** | Easy | Math | [Java](problems/easy/202_happy_number/Solution.java) | [Notes](problems/easy/202_happy_number/notes.md) |
 | **Contains Duplicate** | Easy | Arrays | [Java](problems/topics/arrays/Contains_Duplicate/Solution.java) | [Notes](problems/topics/arrays/Contains_Duplicate/notes.md) |
 | **Max Consecutive Ones III** | Medium | Arrays | [Java](problems/topics/arrays/Max_Consecutive_Ones_III/Solution.java) | [Notes](problems/topics/arrays/Max_Consecutive_Ones_III/notes.md) |
+| **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 
 ## 🚀 How to Run
 
