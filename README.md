@@ -58,6 +58,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **First Unique Character in a String** | Easy | Strings | [Java](problems/topics/strings/First_Unique_Character_in_a_String/Solution.java) | [Notes](problems/topics/strings/First_Unique_Character_in_a_String/notes.md) |
 | **Happy Number** | Easy | Math | [Java](problems/easy/202_happy_number/Solution.java) | [Notes](problems/easy/202_happy_number/notes.md) |
 | **Contains Duplicate** | Easy | Arrays | [Java](problems/topics/arrays/Contains_Duplicate/Solution.java) | [Notes](problems/topics/arrays/Contains_Duplicate/notes.md) |
+| **Max Consecutive Ones III** | Medium | Arrays | [Java](problems/topics/arrays/Max_Consecutive_Ones_III/Solution.java) | [Notes](problems/topics/arrays/Max_Consecutive_Ones_III/notes.md) |
 
 ## 🚀 How to Run
 
