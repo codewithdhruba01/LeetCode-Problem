@@ -61,6 +61,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Max Consecutive Ones III** | Medium | Arrays | [Java](problems/topics/arrays/Max_Consecutive_Ones_III/Solution.java) | [Notes](problems/topics/arrays/Max_Consecutive_Ones_III/notes.md) |
 | **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 | **Remove Letter To Equalize Frequency** | Easy | Strings | [Java](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/Solution.java) | [Notes](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/notes.md) |
+| **Count Primes** | Medium | Math | [Java](problems/medium/204_count_primes/Solution.java) | [Notes](problems/medium/204_count_primes/notes.md) |
 
 ## 🚀 How to Run
 
