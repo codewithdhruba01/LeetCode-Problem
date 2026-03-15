@@ -65,6 +65,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Find First and Last Position in Sorted Array** | Medium | Arrays | [Java](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/notes.md) |
 | **Spiral Matrix** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Spiral_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Spiral_Matrix/notes.md) |
 | **Set Matrix Zeroes** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Set_Matrix_Zeroes/Solution.java) | [Notes](problems/topics/2D_Arrays/Set_Matrix_Zeroes/notes.md) |
+| **Toeplitz Matrix** | Easy | 2D Arrays | [Java](problems/topics/2D_Arrays/Toeplitz_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Toeplitz_Matrix/notes.md) |
 | **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 | **Remove Letter To Equalize Frequency** | Easy | Strings | [Java](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/Solution.java) | [Notes](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/notes.md) |
 | **Count Primes** | Medium | Math | [Java](problems/medium/204_count_primes/Solution.java) | [Notes](problems/medium/204_count_primes/notes.md) |
