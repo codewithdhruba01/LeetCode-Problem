@@ -63,6 +63,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **K-diff Pairs in an Array** | Medium | Arrays | [Java](problems/topics/arrays/K-diff_Pairs_in_an_Array/Solution.java) | [Notes](problems/topics/arrays/K-diff_Pairs_in_an_Array/notes.md) |
 | **Bitwise ORs of Subarrays** | Medium | Arrays | [Java](problems/topics/arrays/Bitwise_ORs_of_Subarrays/Solution.java) | [Notes](problems/topics/arrays/Bitwise_ORs_of_Subarrays/notes.md) |
 | **Find First and Last Position in Sorted Array** | Medium | Arrays | [Java](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/notes.md) |
+| **Product of Array Except Self** | Medium | Arrays | [Java](problems/topics/arrays/Product_of_Array_Except_Self/Solution.java) | [Notes](problems/topics/arrays/Product_of_Array_Except_Self/notes.md) |
 | **Spiral Matrix** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Spiral_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Spiral_Matrix/notes.md) |
 | **Set Matrix Zeroes** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Set_Matrix_Zeroes/Solution.java) | [Notes](problems/topics/2D_Arrays/Set_Matrix_Zeroes/notes.md) |
 | **Toeplitz Matrix** | Easy | 2D Arrays | [Java](problems/topics/2D_Arrays/Toeplitz_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Toeplitz_Matrix/notes.md) |
