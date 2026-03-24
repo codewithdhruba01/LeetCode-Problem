@@ -70,6 +70,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Toeplitz Matrix** | Easy | 2D Arrays | [Java](problems/topics/2D_Arrays/Toeplitz_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Toeplitz_Matrix/notes.md) |
 | **Search a 2D Matrix II** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Search_a_2D_Matrix_II/Solution.java) | [Notes](problems/topics/2D_Arrays/Search_a_2D_Matrix_II/notes.md) |
 | **Majority Element** | Easy | Hashing | [Java](problems/topics/hashing/Majority_Element/Solution.java) | [Notes](problems/topics/hashing/Majority_Element/notes.md) |
+| **Merge Two Sorted Lists** | Easy | Linked List | [Java](problems/topics/linked_list/Merge_Two_Sorted_Lists/Solution.java) | [Notes](problems/topics/linked_list/Merge_Two_Sorted_Lists/notes.md) |
 | **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 | **Remove Letter To Equalize Frequency** | Easy | Strings | [Java](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/Solution.java) | [Notes](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/notes.md) |
 | **Count Primes** | Medium | Math | [Java](problems/medium/204_count_primes/Solution.java) | [Notes](problems/medium/204_count_primes/notes.md) |
