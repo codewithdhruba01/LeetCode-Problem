@@ -65,6 +65,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **How Many Numbers Are Smaller Than the Current Number** | Easy | Arrays | [Java](problems/topics/arrays/How_Many_Numbers_Are_Smaller_Than_the_Current_Number/Solution.java) | [Notes](problems/topics/arrays/How_Many_Numbers_Are_Smaller_Than_the_Current_Number/notes.md) |
 | **Find First and Last Position in Sorted Array** | Medium | Arrays | [Java](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/notes.md) |
 | **Product of Array Except Self** | Medium | Arrays | [Java](problems/topics/arrays/Product_of_Array_Except_Self/Solution.java) | [Notes](problems/topics/arrays/Product_of_Array_Except_Self/notes.md) |
+| **Sort Array by Increasing Frequency** | Easy | Arrays | [Java](problems/topics/arrays/Sort_Array_by_Increasing_Frequency/Solution.java) | [Notes](problems/topics/arrays/Sort_Array_by_Increasing_Frequency/notes.md) |
 | **Spiral Matrix** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Spiral_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Spiral_Matrix/notes.md) |
 | **Set Matrix Zeroes** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Set_Matrix_Zeroes/Solution.java) | [Notes](problems/topics/2D_Arrays/Set_Matrix_Zeroes/notes.md) |
 | **Toeplitz Matrix** | Easy | 2D Arrays | [Java](problems/topics/2D_Arrays/Toeplitz_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Toeplitz_Matrix/notes.md) |
