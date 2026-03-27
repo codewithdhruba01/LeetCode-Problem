@@ -66,11 +66,14 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Find First and Last Position in Sorted Array** | Medium | Arrays | [Java](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/notes.md) |
 | **Product of Array Except Self** | Medium | Arrays | [Java](problems/topics/arrays/Product_of_Array_Except_Self/Solution.java) | [Notes](problems/topics/arrays/Product_of_Array_Except_Self/notes.md) |
 | **Sort Array by Increasing Frequency** | Easy | Arrays | [Java](problems/topics/arrays/Sort_Array_by_Increasing_Frequency/Solution.java) | [Notes](problems/topics/arrays/Sort_Array_by_Increasing_Frequency/notes.md) |
+| **Largest Number** | Medium | Arrays | [Java](problems/topics/arrays/Largest_Number/Solution.java) | [Notes](problems/topics/arrays/Largest_Number/notes.md) |
 | **Spiral Matrix** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Spiral_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Spiral_Matrix/notes.md) |
 | **Set Matrix Zeroes** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Set_Matrix_Zeroes/Solution.java) | [Notes](problems/topics/2D_Arrays/Set_Matrix_Zeroes/notes.md) |
 | **Toeplitz Matrix** | Easy | 2D Arrays | [Java](problems/topics/2D_Arrays/Toeplitz_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Toeplitz_Matrix/notes.md) |
 | **Search a 2D Matrix II** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Search_a_2D_Matrix_II/Solution.java) | [Notes](problems/topics/2D_Arrays/Search_a_2D_Matrix_II/notes.md) |
 | **Majority Element** | Easy | Hashing | [Java](problems/topics/hashing/Majority_Element/Solution.java) | [Notes](problems/topics/hashing/Majority_Element/notes.md) |
+| **Single Element in a Sorted Array** | Medium | Hashing | [Java](problems/topics/hashing/Single_Element_in_a_Sorted_Array/Solution.java) | [Notes](problems/topics/hashing/Single_Element_in_a_Sorted_Array/notes.md) |
+| **Intersection of Two Arrays** | Easy | Hashing | [Java](problems/topics/hashing/Intersection_of_Two_Arrays/Solution.java) | [Notes](problems/topics/hashing/Intersection_of_Two_Arrays/notes.md) |
 | **Merge Two Sorted Lists** | Easy | Linked List | [Java](problems/topics/linked_list/Merge_Two_Sorted_Lists/Solution.java) | [Notes](problems/topics/linked_list/Merge_Two_Sorted_Lists/notes.md) |
 | **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 | **Remove Letter To Equalize Frequency** | Easy | Strings | [Java](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/Solution.java) | [Notes](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/notes.md) |
