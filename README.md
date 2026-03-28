@@ -66,6 +66,8 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Find First and Last Position in Sorted Array** | Medium | Arrays | [Java](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java) | [Notes](problems/topics/arrays/Find_First_and_Last_Position_of_Element_in_Sorted_Array/notes.md) |
 | **Product of Array Except Self** | Medium | Arrays | [Java](problems/topics/arrays/Product_of_Array_Except_Self/Solution.java) | [Notes](problems/topics/arrays/Product_of_Array_Except_Self/notes.md) |
 | **Sort Array by Increasing Frequency** | Easy | Arrays | [Java](problems/topics/arrays/Sort_Array_by_Increasing_Frequency/Solution.java) | [Notes](problems/topics/arrays/Sort_Array_by_Increasing_Frequency/notes.md) |
+| **Next Permutation** | Medium | Arrays | [Java](problems/topics/arrays/Next_Permutation/Solution.java) | [Notes](problems/topics/arrays/Next_Permutation/notes.md) |
+| **Peak Index in a Mountain Array** | Medium | Arrays | [Java](problems/topics/arrays/Peak_Index_in_a_Mountain_Array/Solution.java) | [Notes](problems/topics/arrays/Peak_Index_in_a_Mountain_Array/notes.md) |
 | **Largest Number** | Medium | Arrays | [Java](problems/topics/arrays/Largest_Number/Solution.java) | [Notes](problems/topics/arrays/Largest_Number/notes.md) |
 | **Spiral Matrix** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Spiral_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Spiral_Matrix/notes.md) |
 | **Set Matrix Zeroes** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Set_Matrix_Zeroes/Solution.java) | [Notes](problems/topics/2D_Arrays/Set_Matrix_Zeroes/notes.md) |
