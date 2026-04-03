@@ -82,6 +82,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Subsets** | Medium | Recursion | [Java](problems/topics/Recursion/Subsets/Solution.java) | [Notes](problems/topics/Recursion/Subsets/notes.md) |
 | **Merge Two Sorted Lists** | Easy | Linked List | [Java](problems/topics/linked_list/Merge_Two_Sorted_Lists/Solution.java) | [Notes](problems/topics/linked_list/Merge_Two_Sorted_Lists/notes.md) |
 | **Reverse Linked List** | Easy | Linked List | [Java](problems/topics/linked_list/Reverse_Linked_List/Solution.java) | [Notes](problems/topics/linked_list/Reverse_Linked_List/notes.md) |
+| **Partition List** | Medium | Linked List | [Java](problems/topics/linked_list/Partition_List/Solution.java) | [Notes](problems/topics/linked_list/Partition_List/notes.md) |
 | **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 | **Remove Letter To Equalize Frequency** | Easy | Strings | [Java](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/Solution.java) | [Notes](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/notes.md) |
 | **Count Primes** | Medium | Math | [Java](problems/medium/204_count_primes/Solution.java) | [Notes](problems/medium/204_count_primes/notes.md) |
