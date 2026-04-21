@@ -86,6 +86,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Reverse Linked List** | Easy | Linked List | [Java](problems/topics/linked_list/Reverse_Linked_List/Solution.java) | [Notes](problems/topics/linked_list/Reverse_Linked_List/notes.md) |
 | **Partition List** | Medium | Linked List | [Java](problems/topics/linked_list/Partition_List/Solution.java) | [Notes](problems/topics/linked_list/Partition_List/notes.md) |
 | **Largest Rectangle in Histogram** | Hard | Stack | [Java](problems/topics/stack/Largest_Rectangle_in_Histogram/Solution.java) | [Notes](problems/topics/stack/Largest_Rectangle_in_Histogram/notes.md) |
+| **Trapping Rain Water** | Hard | Stack | [Java](problems/topics/stack/Trapping_Rain_Water/Solution.java) | [Notes](problems/topics/stack/Trapping_Rain_Water/notes.md) |
 | **Length of Last Word** | Easy | Strings | [Java](problems/topics/strings/Length_of_Last_Word/Solution.java) | [Notes](problems/topics/strings/Length_of_Last_Word/notes.md) |
 | **Remove Letter To Equalize Frequency** | Easy | Strings | [Java](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/Solution.java) | [Notes](problems/topics/strings/Remove_Letter_To_Equalize_Frequency/notes.md) |
 | **Count Primes** | Medium | Math | [Java](problems/medium/204_count_primes/Solution.java) | [Notes](problems/medium/204_count_primes/notes.md) |
