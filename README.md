@@ -71,6 +71,7 @@ Here is the complete list of problems I've solved and added to the repository:
 | **Next Permutation** | Medium | Arrays | [Java](problems/topics/arrays/Next_Permutation/Solution.java) | [Notes](problems/topics/arrays/Next_Permutation/notes.md) |
 | **Peak Index in a Mountain Array** | Medium | Arrays | [Java](problems/topics/arrays/Peak_Index_in_a_Mountain_Array/Solution.java) | [Notes](problems/topics/arrays/Peak_Index_in_a_Mountain_Array/notes.md) |
 | **Largest Number** | Medium | Arrays | [Java](problems/topics/arrays/Largest_Number/Solution.java) | [Notes](problems/topics/arrays/Largest_Number/notes.md) |
+| **Minimize Hamming Distance After Swap Operations** | Medium | Arrays | [Java](problems/topics/arrays/Minimize_Hamming_Distance_After_Swap_Operations/Solution.java) | [Notes](problems/topics/arrays/Minimize_Hamming_Distance_After_Swap_Operations/notes.md) |
 | **Spiral Matrix** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Spiral_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Spiral_Matrix/notes.md) |
 | **Set Matrix Zeroes** | Medium | 2D Arrays | [Java](problems/topics/2D_Arrays/Set_Matrix_Zeroes/Solution.java) | [Notes](problems/topics/2D_Arrays/Set_Matrix_Zeroes/notes.md) |
 | **Toeplitz Matrix** | Easy | 2D Arrays | [Java](problems/topics/2D_Arrays/Toeplitz_Matrix/Solution.java) | [Notes](problems/topics/2D_Arrays/Toeplitz_Matrix/notes.md) |
